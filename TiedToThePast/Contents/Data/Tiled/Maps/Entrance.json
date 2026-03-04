@@ -49,7 +49,7 @@
          "name":"BackgroundProps",
          "objects":[
                 {
-                 "gid":68,
+                 "gid":66,
                  "height":124,
                  "id":413,
                  "name":"",
@@ -61,7 +61,7 @@
                  "y":1323
                 }, 
                 {
-                 "gid":70,
+                 "gid":68,
                  "height":198,
                  "id":427,
                  "name":"",
@@ -73,7 +73,7 @@
                  "y":1072
                 }, 
                 {
-                 "gid":45,
+                 "gid":43,
                  "height":134,
                  "id":433,
                  "name":"",
@@ -85,7 +85,7 @@
                  "y":241
                 }, 
                 {
-                 "gid":45,
+                 "gid":43,
                  "height":134,
                  "id":434,
                  "name":"",
@@ -108,7 +108,7 @@
          "name":"Props",
          "objects":[
                 {
-                 "gid":44,
+                 "gid":42,
                  "height":555,
                  "id":423,
                  "name":"",
@@ -120,7 +120,7 @@
                  "y":565.333333333333
                 }, 
                 {
-                 "gid":43,
+                 "gid":41,
                  "height":642,
                  "id":430,
                  "name":"",
@@ -143,7 +143,7 @@
          "name":"Entities",
          "objects":[
                 {
-                 "gid":51,
+                 "gid":49,
                  "height":284,
                  "id":392,
                  "name":"",
@@ -177,7 +177,7 @@
          "name":"Npcs",
          "objects":[
                 {
-                 "gid":63,
+                 "gid":61,
                  "height":160,
                  "id":418,
                  "name":"",
@@ -435,7 +435,7 @@
  "nextobjectid":435,
  "orientation":"orthogonal",
  "renderorder":"left-down",
- "tiledversion":"1.10.0",
+ "tiledversion":"1.11.0",
  "tileheight":56,
  "tilesets":[
         {
@@ -443,31 +443,31 @@
          "source":"..\/Tilesets\/Debug.json"
         }, 
         {
-         "firstgid":6,
+         "firstgid":4,
          "source":"..\/Tilesets\/Enemies.json"
         }, 
         {
-         "firstgid":13,
+         "firstgid":11,
          "source":"..\/Tilesets\/Props.json"
         }, 
         {
-         "firstgid":46,
+         "firstgid":44,
          "source":"..\/Tilesets\/Entities.json"
         }, 
         {
-         "firstgid":52,
+         "firstgid":50,
          "source":"..\/Tilesets\/Riddles.json"
         }, 
         {
-         "firstgid":61,
+         "firstgid":59,
          "source":"..\/Tilesets\/Npcs.json"
         }, 
         {
-         "firstgid":64,
+         "firstgid":62,
          "source":"..\/Tilesets\/BackgroundProps.json"
         }],
  "tilewidth":56,
  "type":"map",
- "version":"1.10",
+ "version":"1.11",
  "width":36
 }
